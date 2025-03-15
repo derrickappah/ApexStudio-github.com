@@ -59,6 +59,8 @@ function setupGallery() {
   });
 }
 
+
+
 function openPage(no) {
   if(no == 2) {
     if(gallery == undefined) {
