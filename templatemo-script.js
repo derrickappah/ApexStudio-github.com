@@ -22,6 +22,7 @@ function highlightMenu(no) {
 }
 
 
+
 function setupGallery() {
   gallery = $('.gallery-slider').slick({
     slidesToShow: 5,
