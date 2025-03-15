@@ -21,6 +21,7 @@ function highlightMenu(no) {
   $(".navbar .navbar-nav > .nav-item > .nav-link[data-no='" + no + "']").parent().addClass('selected');
 }
 
+
 function setupGallery() {
   gallery = $('.gallery-slider').slick({
     slidesToShow: 5,
